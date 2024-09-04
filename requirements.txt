@@ -1,0 +1,7 @@
+requests
+llama-index
+pydantic
+python-dotenv
+unidecode
+pymupdf
+pandas
